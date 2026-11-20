@@ -1,0 +1,10 @@
+{
+  "train_seed": 0,
+  "eval_seed": 1,
+  "episodes": 200,
+  "grounding_accuracy": 1.0,
+  "grasp_success": 0.97,
+  "feature_count": 6,
+  "model": "softmax linear grounder",
+  "controller": "closed-loop planar approach with one sidestep"
+}
